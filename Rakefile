@@ -1,5 +1,7 @@
 require "bundler/gem_tasks"
-
+# 
+# Rakefile credit: https://github.com/TrevorS/bootstrap3-datetimepicker-rails/blob/master/Rakefile
+# 
 SUBMODULE_NAME = "immutable-js"
 
 task :submodule do
