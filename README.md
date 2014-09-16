@@ -23,7 +23,7 @@ Or install it yourself as:
 Add the following to your Javascript manifest file (`application.js`):
 
 ```javascript
-//= require immutable.min
+//= require Immutable.min
 ```
 
 Check out the original source at : https://github.com/facebook/immutable-js
