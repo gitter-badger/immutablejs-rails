@@ -1,0 +1,3 @@
+[submodule "immutable-js"]
+	path = immutable-js
+	url = git@github.com:facebook/immutable-js.git
