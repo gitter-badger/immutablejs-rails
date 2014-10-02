@@ -1,4 +1,5 @@
 # Immutablejs::Rails
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/tomchentw/immutablejs-rails?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Immutable Data Collections for JavaScripts.
 
